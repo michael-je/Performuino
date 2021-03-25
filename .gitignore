@@ -1,5 +1,8 @@
 __pycache__
 .DS_Store
-Development
+._*
+
+/dev
+/school
 secrets.py
 *.wav
